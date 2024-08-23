@@ -1,6 +1,6 @@
 {
   "name": "react-native-quick-base64",
-  "version": "2.1.2",
+  "version": "2.1.2-1.0.1",
   "description": "A native implementation of base64 in C++ for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -13,6 +13,7 @@
     "android",
     "ios",
     "cpp",
+    "harmony",
     "react-native-quick-base64.podspec",
     "!lib/typescript/example",
     "!android/build",
@@ -34,7 +35,9 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "quick-base64",
+    "harmony"
   ],
   "repository": "https://github.com/craftzdog/react-native-quick-base64",
   "author": "Takuya Matsuyama <hi@craftz.dog> (https://github.com/craftzdog)",
