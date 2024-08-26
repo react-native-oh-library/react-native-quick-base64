@@ -10,9 +10,6 @@
   "files": [
     "src",
     "lib",
-    "android",
-    "ios",
-    "cpp",
     "harmony",
     "react-native-quick-base64.podspec",
     "!lib/typescript/example",
@@ -34,18 +31,16 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android",
     "quick-base64",
     "harmony"
   ],
-  "repository": "https://github.com/craftzdog/react-native-quick-base64",
+  "repository": "https://github.com/react-native-oh-library/react-native-quick-base64",
   "author": "Takuya Matsuyama <hi@craftz.dog> (https://github.com/craftzdog)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/craftzdog/react-native-quick-base64/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-quick-base64/issues"
   },
-  "homepage": "https://github.com/craftzdog/react-native-quick-base64#readme",
+  "homepage": "https://github.com/react-native-oh-library/react-native-quick-base64#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
