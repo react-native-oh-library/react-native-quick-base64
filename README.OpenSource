@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-quick-base64",
+        "License": "MIT License",
+        "License File": "https://github.com/craftzdog/react-native-quick-base64/blob/master/LICENSE",
+        "Version Number": "2.1.2",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/craftzdog/react-native-quick-base64",
+        "Description": "A native implementation of base64 in C++ for React Native"
+    }
+]
