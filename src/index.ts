@@ -25,7 +25,7 @@
 import { NativeModules } from 'react-native';
 import fallback from 'base64-js';
 
-const isTurboModuleEnabled = (global as any).__turboModuleProxy != null;
+const isTurboModuleEnabled = global.nativeModuleProxy != null;
 
 const Base64Module = isTurboModuleEnabled
   ? require('./NativeQuickBase64').default
