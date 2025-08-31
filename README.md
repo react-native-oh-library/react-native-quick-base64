@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-quick-base64
+# @react-native-ohos/react-native-quick-base64
 
 This project is based on [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
 

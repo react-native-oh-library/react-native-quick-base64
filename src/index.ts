@@ -24,7 +24,7 @@
 
 import { NativeModules } from 'react-native';
 import fallback from 'base64-js';
-
+// @ts-ignore We want to check whether __turboModuleProxy exitst, it may not
 const isTurboModuleEnabled = global.nativeModuleProxy != null;
 
 const Base64Module = isTurboModuleEnabled

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-quick-base64",
-  "version": "2.1.2-1.0.1",
+  "name": "@react-native-ohos/react-native-quick-base64",
+  "version": "2.1.2-1.0.2-rc.0",
   "description": "A native implementation of base64 in C++ for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
