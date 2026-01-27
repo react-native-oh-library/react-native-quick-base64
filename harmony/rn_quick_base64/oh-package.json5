@@ -23,7 +23,7 @@
  */
 {
   "name": "@react-native-ohos/react-native-quick-base64",
-  "version": "2.2.0-rc.1",
+  "version": "2.2.0",
   "description": "Please describe the basic information.",
   "main": "index.ets",
   "author": "",
