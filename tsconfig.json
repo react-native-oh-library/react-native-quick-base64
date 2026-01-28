@@ -23,12 +23,12 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "esnext",
-    "outDir": "lib",
+    "outDir": "lib"
   },
   "include": [
     "src",
     ".eslintrc.js",
-    "babel.config.js",
+    "babel.config.js"
   ],
   "exclude": [
     "node_modules",
