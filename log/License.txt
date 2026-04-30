@@ -1,0 +1,1 @@
+14:52:35 WARN  - OatFileAnalyser	react-native-quick-base64	README.OpenSource	MIT License
