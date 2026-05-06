@@ -22,8 +22,8 @@
  * SOFTWARE.
  */
 
-import { RNPackage, TurboModulesFactory } from '@rnoh/react-native-openharmony/ts';
-import type { TurboModule, TurboModuleContext } from '@rnoh/react-native-openharmony/ts';
+import { RNOHPackage, TurboModulesFactory } from '@rnoh/react-native-openharmony';
+import type { TurboModule, TurboModuleContext } from '@rnoh/react-native-openharmony';
 
 import { RNQuickBase64TurboModule } from './RNQuickBase64TurboModule';
 
@@ -41,7 +41,7 @@ class RNQuickBase64TurboModulesFactory extends TurboModulesFactory {
   }
 }
 
-export class RNQuickBase64Package extends RNPackage {
+export class RNQuickBase64Package extends RNOHPackage {
   createTurboModulesFactory(ctx: TurboModuleContext): TurboModulesFactory {
     return new RNQuickBase64TurboModulesFactory(ctx);
   }

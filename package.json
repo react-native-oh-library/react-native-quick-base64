@@ -134,5 +134,14 @@
       ]
     ]
   },
-  "dependencies": {}
+  "dependencies": {},
+  "harmony": {
+    "alias": "react-native-quick-base64",
+    "autolinking": {
+      "etsPackageClassName":"RNQuickBase64Package",
+      "cppPackageClassName":"RNQuickBase64Package",
+      "cmakeLibraryTargetName": "rnoh_quick_base64", 
+      "ohPackageName": "@react-native-ohos/react-native-quick-base64"
+    } 
+  }
 }
