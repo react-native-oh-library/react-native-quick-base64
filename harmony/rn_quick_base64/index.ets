@@ -22,4 +22,6 @@
  * SOFTWARE.
  */
 
-export * from "./ts";
+import { RNQuickBase64Package as RNQuickBase64Package } from "./src/main/ets/RNQuickBase64Package";
+export * from './ts';
+export default RNQuickBase64Package;
