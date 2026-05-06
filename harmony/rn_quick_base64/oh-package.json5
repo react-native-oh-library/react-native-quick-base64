@@ -23,12 +23,12 @@
  */
 {
   "name": "@react-native-ohos/react-native-quick-base64",
-  "version": "2.2.0",
+  "version": "2.3.0-rc.1",
   "description": "Please describe the basic information.",
   "main": "index.ets",
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony-5.0.0.401.har"
+    "@rnoh/react-native-openharmony": "file:../react_native_openharmony"
   }
 }
