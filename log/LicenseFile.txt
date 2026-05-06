@@ -1,0 +1,2 @@
+14:52:35 WARN  - OatPolicyVerifyAnalyser	react-native-quick-base64/	LICENSEFILE	LICENSE	MIT	
+14:52:35 WARN  - OatPolicyVerifyAnalyser	react-native-quick-base64/	DEFLICENSEFILE	LICENSE	MIT	
